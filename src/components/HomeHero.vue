@@ -12,9 +12,9 @@
 </template>
 
 <script>
-export default {
-    name: 'HomeHero'
-};
+  export default {
+      name: 'HomeHero'
+  };
 </script>
 
 <style scoped>
